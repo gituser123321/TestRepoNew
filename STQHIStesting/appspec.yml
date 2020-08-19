@@ -1,0 +1,7 @@
+version: 0.0
+os: linux
+files:
+  - source: STQHIStesting/app
+    destination: /var/www/htmlSTQHIStesting/app
+ 
+    
